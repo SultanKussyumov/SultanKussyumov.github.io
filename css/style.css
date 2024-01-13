@@ -1,0 +1,11 @@
+header{
+    display: flex;
+}
+.menu{
+    display: flex;
+}
+.image1{
+    margin:0 0px;
+    padding: 100px;
+    flex: 0;
+}
